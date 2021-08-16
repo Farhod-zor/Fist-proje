@@ -41,9 +41,14 @@
        </tbody> 
      </table>
  <!--  <from action='email.php'>  -->
-      <!--  <br>  -->
-       <form> 
-       <input>
-       </form>
-   </body>
+      <hr>
+      <form>
+       <label for="fname">
+     First name:
+       <input type="text">
+       </label>
+      </form>
+ 
+
+  </body>
 </html>
