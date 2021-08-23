@@ -1,7 +1,7 @@
 <Doctype html/>
 <html>
   <head>
-     <title>'my first websayt' </title>
+    <title>'my first websayt'</title>
   </head>
    <body>
     <h1>my first websayt </h1>
